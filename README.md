@@ -1,3 +1,3 @@
 # NTF Preview
 
-<img src="../src/assets/design/desktop-design.jpg"/>
+<img src="../ntf-preview/src/assets/design/desktop-design.jpg"/>
